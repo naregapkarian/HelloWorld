@@ -8,4 +8,5 @@ constructor (params) {
 greet() {
     console.log("Nareg")
 }
+showGreet()
 }
